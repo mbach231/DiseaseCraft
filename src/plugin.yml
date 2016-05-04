@@ -1,0 +1,14 @@
+name: DiseaseCraft
+main: com.mbach231.diseasecraft.DiseaseCraft
+version: 1.0
+commands:
+  infect:
+    description: Infects a player with a disease
+    usage: /infect <player> <disease>
+    permission: diseasecraft.infect
+    permission-message: You don't have permission to use this command!
+  cure:
+    description: Cures a player of a disease
+    usage: /cure <player> <disease>
+    permission: diseasecraft.cure
+    permission-message: You don't have permission to use this command!

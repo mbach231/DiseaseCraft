@@ -1,0 +1,6 @@
+
+purge-infected-entities: false
+purge-vector-entities: false
+max-days-before-purge: 30
+
+log-enabled: false
